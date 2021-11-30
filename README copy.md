@@ -1,5 +1,3 @@
-# todolist
-a typescript test project, todo list
 ## 面向对象，类的继承、横向切割
 1.程序进行分类
     外层： 浏览器的事件 - 调用方法 - 事件处理函数的绑定
